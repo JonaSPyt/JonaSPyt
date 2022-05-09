@@ -1,4 +1,5 @@
 ### Computer Engineering student at IFCE.
+Always learning
 
 <div align="center">
   <a href="https://github.com/JonaSPyt">
