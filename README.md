@@ -1,4 +1,4 @@
-### Computer Engineering student at IFCE. Always learning.
+### Computer Engineering student at IFCE. Always learning...
 
 
 <div align="center">
