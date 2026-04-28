@@ -1,9 +1,23 @@
-<h1 align="center">Olá, eu sou o Jonas 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Jonas Emanuel</h1>
+
+<h3 align="center">
+  🚀 Desenvolvedor em formação | Engenharia da Computação | Front-end & Back-end
+</h3>
 
 <p align="center">
-  Estudante de Engenharia da Computação no IFCE <br/>
-  Desenvolvedor em formação, focado em Front-end, React, Vue e aplicações web.
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Construindo+projetos+com+React%2C+Vue+e+TypeScript;Explorando+Back-end+com+FastAPI+e+Node.js;Aprendendo+um+pouco+mais+a+cada+projeto+🚀" 
+    alt="Typing SVG" 
+  />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JonaSPyt&label=Visualizações&color=38bdf8&style=for-the-badge" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-22c55e?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-8b5cf6?style=for-the-badge" alt="Foco" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JonaSPyt/JonaSPyt/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
@@ -11,33 +25,42 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação** no IFCE.
-- 💻 Atualmente estudando **Front-end**, **Vue**, **React**, **TypeScript** e integração com APIs.
-- 🧠 Sempre buscando aprender mais sobre desenvolvimento web, boas práticas e deploy de aplicações.
-- 🛠️ Gosto de transformar ideias em projetos práticos.
-- 📌 Meu objetivo é evoluir como desenvolvedor e criar aplicações úteis, modernas e bem organizadas.
+<p align="left">
+  Sou estudante de <strong>Engenharia da Computação</strong> no IFCE e estou construindo minha jornada como desenvolvedor, explorando tanto o <strong>Front-end</strong> quanto o <strong>Back-end</strong>.
+</p>
+
+<p align="left">
+  Tenho interesse em criar interfaces modernas, consumir APIs, organizar projetos e transformar ideias em aplicações reais. Atualmente estudo tecnologias como <strong>React</strong>, <strong>Vue</strong>, <strong>TypeScript</strong>, <strong>FastAPI</strong> e <strong>Node.js</strong>.
+</p>
+
+<p align="left">
+  Meu objetivo é evoluir constantemente, desenvolver projetos úteis e ganhar experiência prática com desenvolvimento web, deploy, versionamento e boas práticas de código.
+</p>
 
 ---
 
-## 🧰 Tecnologias que estou usando e estudando
+## ⚙️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,python,fastapi,nodejs,dart,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🌱 Atualmente evoluindo em
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" alt="Dart" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+| Área | Tecnologias e estudos |
+|---|---|
+| 🎨 **Front-end** | Vue.js, React, TypeScript e Tailwind CSS |
+| ⚙️ **Back-end** | FastAPI, Node.js e APIs REST |
+| 🚀 **Deploy** | GitHub Pages, Render e publicação de aplicações |
+| 🧰 **Ferramentas** | Git, GitHub, VS Code e Linux |
 
 </div>
-
 
 ---
 
@@ -55,6 +78,6 @@
 
 ---
 
-<p align="center">
-  "Aprendendo um pouco mais a cada projeto." 🚀
-</p>
+<h3 align="center">
+  ✨ "Aprendendo um pouco mais a cada projeto." 🚀
+</h3>
