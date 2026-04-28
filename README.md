@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JonaSPyt">
-    <img src="https://komarev.com/ghpvc/?username=JonaSPyt&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-  </a>
+  <img src="https://raw.githubusercontent.com/JonaSPyt/JonaSPyt/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
 </p>
 
 ---
