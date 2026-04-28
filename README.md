@@ -5,13 +5,6 @@
 </h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Construindo+projetos+com+React%2C+Vue+e+TypeScript;Explorando+Back-end+com+FastAPI+e+Node.js;Aprendendo+um+pouco+mais+a+cada+projeto+🚀" 
-    alt="Typing SVG" 
-  />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JonaSPyt&label=Visualizações&color=38bdf8&style=for-the-badge" alt="Visualizações do perfil" />
   <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-22c55e?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-8b5cf6?style=for-the-badge" alt="Foco" />
