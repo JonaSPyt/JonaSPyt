@@ -38,18 +38,6 @@
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JonaSPyt&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonaSPyt&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
 
 ---
 
